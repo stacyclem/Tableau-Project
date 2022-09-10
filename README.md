@@ -8,3 +8,5 @@ Data was extracted and cleaned using Excel. New calculations were made for ideal
 Chart was made in Tableau as a dashboard
 
 <a href="<a href="https://excelwithbusiness.com/blogs/news/15-excel-data-analysis-functions-need">Tableau Project</a>
+
+<img src ="" width="350" height="auto" >                                                                                                 
