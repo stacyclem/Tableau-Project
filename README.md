@@ -9,4 +9,4 @@ Chart was made in Tableau as a dashboard
 
 <a href="<a href="https://excelwithbusiness.com/blogs/news/15-excel-data-analysis-functions-need">Tableau Project</a>
 
-<img src ="" width="350" height="auto" >                                                                                                 
+<img src ="https://github.com/stacyclem/Tableau-Project/blob/main/tableau%20server%20tips%20screenshot.png" width="auto" height="auto" >                                                                                                 
